@@ -12,12 +12,14 @@ h1{
         font-size: 21px;
         font-weight: bold;
       }
-      .contenedor{
-        text-decoration: underline;
-        color: violet;
-        font-size: 30px;
-        background-color: aquamarine;
-    }
+      .contenedor {
+        background-color: rgb(197, 159, 88);
+        color: blanchedalmond;
+      }
+      .contenedor h1 {text-decoration: underline;
+        color: rgb(180, 121, 214);
+        font-size: 30px;}
+    
     .imagenen img{
       margin-left: 20px;
       margin-top: 50px;
