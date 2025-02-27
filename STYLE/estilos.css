@@ -1,0 +1,26 @@
+
+body {
+background-color: rgba(123, 139, 65, 0.459);
+font-size: 27px; 
+text-align: center;
+}
+h1{
+    font-size: 34px;
+    text-align: center;
+      }
+      .textoGrande{
+        font-size: 21px;
+        font-weight: bold;
+      }
+      .contenedor{
+        text-decoration: underline;
+        color: violet;
+        font-size: 30px;
+        background-color: aquamarine;
+    }
+    .imagenen img{
+      margin-left: 20px;
+      margin-top: 50px;
+      width: 250px;
+      height: 250px;
+    }
